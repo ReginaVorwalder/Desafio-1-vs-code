@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ header{
+    background-color: lightcyan;
+ }
+ li{
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 60px;
+ }
+ div{
+    display: inline-block;
+    width: 250px;
+    margin-top: 45px;
+    margin-left: 60px;
+ }
+ img{
+    width: 250px;
+ }
+
+button{
+    margin-left: 85px;
+}
+h3{
+    margin-left:95px ;
+}
+ form {
+   margin-left: 35px;
+}
+footer{ 
+    background-color: lightcyan;
+}
+h2{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#cadastro {
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 200px;
+    font-size: 30px;
+}
